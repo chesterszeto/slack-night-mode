@@ -79,7 +79,7 @@
   input[type=file]:focus { outline: #e6e6e6 dotted thin; }
   input[type=radio]:focus, input[type=checkbox]:focus { outline: #e6e6e6 dotted thin; }
   select { background: #545454; }
-  select, textarea { border: 1px solid #000; color: #e6e6e6; }
+  select, textarea { border: 1px solid #CCC; color: #e6e6e6; }
   select:active, select:focus, textarea:active, textarea:focus { border-color: #363636; box-shadow: 0 0 7px rgba(130, 130, 130, 0.15); }
   input:disabled, input:disabled:active, select:disabled, textarea:disabled { border-color: #424242 !important; }
   .no_touch input:hover, .no_touch select:hover, .no_touch textarea:hover { border-color: #363636; }
